@@ -3,7 +3,7 @@
 **`Desenvolvedor Front End`**
 
 Me chamo Peter (Pitt), tenho 38 anos e sou de Belo Horizonte, Minas Gerais.
-Atuo como desenvolvedor Front End desde 2015 e desde então minha experiência principal foi desenvolver sites institucionais em Wordpress, fato que me fez adquirir alguma experiência no Back End.
+Atuo como desenvolvedor Front End desde 2015 e desde então minha experiência principal foi desenvolver sites institucionais em Wordpress, fato que me fez adquirir alguma experiência no Back End também.
 Desde então venho tentando me especializar, aumentar e melhorar cada vez mais minhas skills. Nos últimos anos me apaixonei pelo Reactjs e pude trabalhar em vários projetos utilizando ele. 
 
 Atualmente estou focado em me desenvolver cada vez mais no React, no inglês etc...
